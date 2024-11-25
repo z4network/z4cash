@@ -2,19 +2,19 @@
     "name": "Z4 Cash",
     "symbol": "Z4S",
     "description": "Z4 Cash is a utility token.",
-    "image": "https://raw.githubusercontent.com/z4network/Z4cash/refs/heads/main/z4cash.png",
+    "image": "https://raw.githubusercontent.com/z4network/z4cash/refs/heads/main/z4cash.png",
     "external_url": "https://z4.network/z4cash",
     "seller_fee_basis_points": 500,
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/z4network/Z4cash/refs/heads/main/z4cash.png",
+          "uri": "https://raw.githubusercontent.com/z4network/z4cash/refs/heads/main/z4cash.png",
           "type": "image/png"
         }
       ],
       "creators": [
         {
-          "address": "Your Solana Wallet Address",
+          "address": "7pyTRpUHVcF3jTw4EzhNGuZ6ksCLZMt33XokDrqUWfz6",
           "share": 100
         }
       ]
